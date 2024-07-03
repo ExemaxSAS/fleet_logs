@@ -13,4 +13,10 @@ Then when You're access to menuiten, We're find the next view
 
 In that view , we're find columns the info about the vehicles, model vehicle, his buyer, odometer value, consumer litres, total price
 
+After, If We're get on to vehicle, we'll see 
+
+
+![image](https://github.com/ExemaxSAS/fleet_logs/assets/54823116/64afc009-d3eb-4128-861a-b075a30e169c)
+
+
  
