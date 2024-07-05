@@ -19,4 +19,9 @@ After, If We're get on to vehicle, we'll see
 ![image](https://github.com/ExemaxSAS/fleet_logs/assets/54823116/64afc009-d3eb-4128-861a-b075a30e169c)
 
 
+IN the section of Note ('Escriba aqui otra información'), We can add some note revelevant of vehicle
+
+![image](https://github.com/ExemaxSAS/fleet_logs/assets/54823116/7aaec1e0-cc38-43c8-a49c-c0d01bc14e5e)
+
+
  
